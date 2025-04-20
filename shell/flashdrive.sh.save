@@ -1,9 +1,0 @@
-#!/bin/bash
-
-read -p "Enter your name: " name
-read -p "Enter your class:" class
-
-echo " "
-
-# Display options
-echo "Hello, $name! Welcome"
