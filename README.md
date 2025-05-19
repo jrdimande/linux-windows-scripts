@@ -4,17 +4,4 @@ Este repositório contém uma coleção de scripts desenvolvidos durante a cadei
 
 ---
 
-## 📁 Estrutura do Repositório
-├── linux/
-│ └── bash/
-│ ├── script1.sh
-│ └── ...
-├── windows/
-│ ├── batch/
-│ │ ├── script1.bat
-│ │ └── ...
-│ └── powershell/
-│ ├── script1.ps1
-│ └── ...
-├── push.sh
 
